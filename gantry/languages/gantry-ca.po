@@ -1,0 +1,745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gantry Framework Plugin 4.0.6\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marc Queralt <marc@demomentsomtres.com>\n"
+"Language-Team: DeMomentSomTres <dms3@demomentsomtres.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: ca\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "MISSING_MENU_THEME_MESSAGE"
+msgstr ""
+"Per a que el tema funcioni correctament, ves a <strong>Tauler &rarr; "
+"Aparencça &rarr; Ginys</strong> i desa de nou totes les instàncies de "
+"<strong>Menú Gantry</strong>."
+
+msgid "JNONE"
+msgstr "Cap"
+
+msgid "SETTINGS"
+msgstr "Configuració"
+
+msgid "THEME_SETTINGS"
+msgstr "configuració del tema"
+
+msgid "SUCCESS_MSG"
+msgstr "El nou preset s'ha gravat correctament i està a punt.</p>"
+
+msgid "SHOW"
+msgstr "Mostra"
+
+msgid "ENABLED"
+msgstr "Actiu"
+
+msgid "ENABLE"
+msgstr "Activa"
+
+msgid "POSITION"
+msgstr "Posicuó"
+
+msgid "AUTO_SIZE"
+msgstr "mida automàtica"
+
+msgid "LOW"
+msgstr "baix"
+
+msgid "MED"
+msgstr "mig"
+
+msgid "HIGH"
+msgstr "alt"
+
+msgid "DELAY"
+msgstr "Retard"
+
+msgid "TYPE"
+msgstr "Tipus"
+
+msgid "X_OFFSET"
+msgstr "X-Offset"
+
+msgid "Y_OFFSET"
+msgstr "Y-Offset"
+
+msgid "MIN_WIDTH"
+msgstr "Min-Width"
+
+msgid "PREVIEW"
+msgstr "Pre-visualització"
+
+msgid "OPACITY"
+msgstr "Opacitat"
+
+msgid "START"
+msgstr "Inici"
+
+msgid "END"
+msgstr "Final"
+
+msgid "TOOLBAR"
+msgstr "Barra d'eines"
+
+msgid "OVERVIEW"
+msgstr "General"
+
+msgid "CONTENT"
+msgstr "Complet"
+
+msgid "EXCERPT"
+msgstr "Resum"
+
+msgid "BOTH"
+msgstr "Ambdós"
+
+msgid "STYLE"
+msgstr "Estil"
+
+msgid "LINK_COLOR"
+msgstr "Color dels enllaços"
+
+msgid "LINK_COLOR_DESC"
+msgstr "Selecciona el color per defecte dels enllaços i destacats."
+
+msgid "LOGO"
+msgstr "Logo"
+
+msgid "LOGO_DESC"
+msgstr "Activa i desactiva el logo. Si s'activa permet escollir-lo."
+
+msgid "CUSTOM"
+msgstr "Personalitzat"
+
+msgid "LIGHT"
+msgstr "Clar"
+
+msgid "DARK"
+msgstr "Fosc"
+
+msgid "HEADER_STYLE"
+msgstr "Estil de la capçalera"
+
+msgid "LOGO_PICKER"
+msgstr "Logo personalitzat"
+
+msgid "LOGO_PICKER_DESC"
+msgstr ""
+"Usa Logo personalitzat per escollir una imatge per presentar-la com a logo."
+
+msgid "LOGO_STYLE"
+msgstr "Estil de logo"
+
+msgid "LOGO_STYLE_DESC"
+msgstr "Selecciona l'estil de logo entre les opcions pre-definides."
+
+msgid "FEATURED_IMAGE_SIZE"
+msgstr "Mida de la imatge destacada"
+
+msgid "FEATURED_IMAGE_SIZE_DESC"
+msgstr "Estableix les dimensions i la posició de la imatge destacada."
+
+msgid "WIDTH"
+msgstr "Amplada"
+
+msgid "HEIGHT"
+msgstr "Alçada"
+
+msgid "LEFT"
+msgstr "Esquerra"
+
+msgid "RIGHT"
+msgstr "Dreta"
+
+msgid "WEBFONTS"
+msgstr "Fonts de lletra web"
+
+msgid "WEBFONTS_DESC"
+msgstr ""
+"Permet establir si s'usen fonts de lletra amb compatibilitat web de tercers "
+"o no."
+
+msgid "WEBFONTS_SOURCE"
+msgstr "Tipus de lletra"
+
+msgid "FONT_SETTINGS"
+msgstr "Configuració de la lletra"
+
+msgid "FONT_SETTINGS_DESC"
+msgstr "Tria la lletra per defecte"
+
+msgid "FONT_FAMILY"
+msgstr "Família de lletra"
+
+msgid "FONT_SIZE"
+msgstr "Mida de lletra"
+
+msgid "F_XSMALL"
+msgstr "Extra petita"
+
+msgid "F_SMALL"
+msgstr "Petita"
+
+msgid "F_DEFAULT"
+msgstr "Normal"
+
+msgid "F_LARGE"
+msgstr "Gran"
+
+msgid "F_XLARGE"
+msgstr "Extra gran"
+
+msgid "PAGINATION"
+msgstr "Paginat"
+
+msgid "PAGINATION_DESC"
+msgstr "Presenta les pàgines de contingut paginades."
+
+msgid "PAGINATION_SHOW_RESULTS"
+msgstr "Mostra resultats"
+
+msgid "PAGINATION_SHOW_COUNT"
+msgstr "Mostra nombre"
+
+msgid "PAGINATION_SHOW_RESULTS_DESC"
+msgstr "Mostra el nombre de la pàgina actual i totes les pàgines restants."
+
+msgid "PAGINATION_SIDE_PAGES"
+msgstr "Pàgines addicionals"
+
+msgid "PAGINATION_SIDE_PAGES_DESC"
+msgstr ""
+"Nombre de pàgines que es mostren al costat del número de pàgina actual."
+
+msgid "WORDPRESS_COMMENTS"
+msgstr "Usa comentaris de WordPress"
+
+msgid "WORDPRESS_COMMENTS_DESC"
+msgstr ""
+"Desactiva-ho si uses algun altre tipus de sistema de comentaris com ara "
+"Disqus."
+
+msgid "CUSTOM_CSS"
+msgstr "CSS personalitzat"
+
+msgid "CUSTOM_CSS_DESC"
+msgstr "El teu propi codi CSS que s'afegirà dins la secció <head>."
+
+msgid "TEXT"
+msgstr "Text"
+
+msgid "GIZMOS"
+msgstr "Trucs"
+
+msgid "FEATURES"
+msgstr "Funcionalitat"
+
+msgid "DATE"
+msgstr "Data"
+
+msgid "DATE_DESC"
+msgstr ""
+"Activa o desactiva la funcionalitat de data i li assigna una posició per "
+"defecte."
+
+msgid "DATE_CLIENTSIDE"
+msgstr "Data basada en client"
+
+msgid "FONT_SIZER"
+msgstr "Mida de fonts"
+
+msgid "FONT_SIZER_DESC"
+msgstr ""
+"Activa o desactiva la funcionalitat de mida de font i assigna la seva "
+"posició per defecte."
+
+msgid "BRANDING"
+msgstr "Gantry branding"
+
+msgid "BRANDING_DESC"
+msgstr ""
+"Activa o desactiva el branding de Ganty i li assigna posició per defecte."
+
+msgid "COPYRIGHT"
+msgstr "Copyright"
+
+msgid "COPYRIGHT_DESC"
+msgstr ""
+"Activa o desactiva la funcionalitat de copyright i li assigna posició per "
+"defecte."
+
+msgid "SMARTLOAD"
+msgstr "SmartLoad"
+
+msgid "SMARTLOAD_DESC"
+msgstr "Activa o desactiva la funcionalitat SmartLoad en imatges"
+
+msgid "COMPONENT_IGNORES"
+msgstr "Ignora component"
+
+msgid "XPATH_IGNORES"
+msgstr "Ignora XPath"
+
+msgid "TOTOP"
+msgstr "Anar a dalt"
+
+msgid "TOTOP_DESC"
+msgstr ""
+"Permet activar o desactivar anar a dalt i assignar-li una posició per "
+"defecte."
+
+msgid "RESETSETTINGS"
+msgstr "Reiniciar configuració"
+
+msgid "RESETSETTINGS_DESC"
+msgstr ""
+"Activa o desactiva l'enllaç de reiniciar configuració i li assigna una "
+"posició per defecte."
+
+msgid "ANALYTICS"
+msgstr "Google Analytics"
+
+msgid "ANALYTICS_DESC"
+msgstr "Activa o desactiva la lògica de Google Analytics."
+
+msgid "ANALYTICS_ENABLE"
+msgstr "Activa"
+
+msgid "ANALYTICS_CODE"
+msgstr "Codi UA"
+
+msgid "MENU"
+msgstr "Menú"
+
+msgid "MENU_CTRL"
+msgstr "Control de menú"
+
+msgid "MENU_CTRL_DESC"
+msgstr "Activa o desactiva el menú i permet escollir el tipus de menú."
+
+msgid "FUSION"
+msgstr "Menú fusió"
+
+msgid "DROPDOWN"
+msgstr "Menú desplegable"
+
+msgid "SPLITMENU"
+msgstr "Menú split"
+
+msgid "MENU_SELECT"
+msgstr "Escull un menú"
+
+msgid "MENU_SELECT_DESC"
+msgstr "Escull un menú per mostrar-lo com a menú principal."
+
+msgid "POSITION_DESC"
+msgstr "Escull una posició per posar-hi el menú principal."
+
+msgid "ENABLE_JS"
+msgstr "Activa JavaScript"
+
+msgid "ENABLE_JS_DESC"
+msgstr "Activa o desactiva els efectes JavaScript pel menú."
+
+msgid "MENU_OPACITY"
+msgstr "Opacitat del menú"
+
+msgid "MENU_EFFECT"
+msgstr "Efecte del menú"
+
+msgid "MENU_EFFECT_DESC"
+msgstr "Escull un dels efectes disponibles pel menú desplegable."
+
+msgid "SLIDE"
+msgstr "Llisca"
+
+msgid "SLIDEFADE"
+msgstr "Llisca + esvaeix"
+
+msgid "MENU_DELAY"
+msgstr "Espera del menú"
+
+msgid "MENU_DELAY_DESC"
+msgstr "Estableix el temps d'espera pels menús desplegables."
+
+msgid "MENU_ANIMATION"
+msgstr "Animació del menú"
+
+msgid "MENU_ANIMATION_DESC"
+msgstr "Escull un tipus d'animació pel menú"
+
+msgid "MENU_DURATION"
+msgstr "Durada del menú"
+
+msgid "MENU_DURATION_DESC"
+msgstr "Estableix la durada del menú"
+
+msgid "CENTERED_DROPDOWN"
+msgstr "Deslegables centrats"
+
+msgid "ENABLE_ID"
+msgstr "Activa ID"
+
+msgid "ENABLE_ID_DESC"
+msgstr "Activa o desactiva l'ID de menú actiu de WordPress."
+
+msgid "MAINMENU_POS"
+msgstr "Posició del menú principal"
+
+msgid "MAINMENU_POS_DESC"
+msgstr "Escull la posició del menú principal."
+
+msgid "SUBMENU_POS"
+msgstr "Posició del submenú"
+
+msgid "SUBMENU_POS_DESC"
+msgstr "Tria la posició del submenú del menú split."
+
+msgid "SUBMENU_TITLE"
+msgstr "Títol del submenú"
+
+msgid "SUBMENU_TITLE_DESC"
+msgstr "Activa o desactiva el títol de mòdul del widget de submenú."
+
+msgid "SUBMENU_CLASS_SFX"
+msgstr "Sufix de class pel submenú"
+
+msgid "SUBMENU_CLASS_SFX_DESC"
+msgstr "Estableix un sufix de classe pel menú split."
+
+msgid "SUBMENUMODULE_CLASS_SFX"
+msgstr "Sufix de classe pel mòdul de submenú"
+
+msgid "SUBMENUMODULE_CLASS_SFX_DESC"
+msgstr "Estableix un sufix de classe pel giny de submenú de l'split menú."
+
+msgid "RESPONSIVE_MENU"
+msgstr "Menú adaptatiu"
+
+msgid "RESPONSIVE_MENU_DESC"
+msgstr "Escull l'estil de visualització del menú en vista mòbil o tablet."
+
+msgid "PANEL"
+msgstr "Panell"
+
+msgid "SELECTBOX"
+msgstr "Llista de selecció"
+
+msgid "LAYOUTS"
+msgstr "Distribucions"
+
+msgid "FULLWIDTH_POS"
+msgstr "Posicions d'ample complet"
+
+msgid "TOP_POS"
+msgstr "Posicions Top"
+
+msgid "NAV_POS"
+msgstr "Posicions Navigation"
+
+msgid "HEADER_POS"
+msgstr "Posicions Header"
+
+msgid "SHOWCASE_POS"
+msgstr "Posicions Showcase"
+
+msgid "UTILITY_POS"
+msgstr "Posicions Utility"
+
+msgid "FEATURE_POS"
+msgstr "Posicions Featured"
+
+msgid "MAINTOP_POS"
+msgstr "Posicions Main Top"
+
+msgid "MAINBODY_POS"
+msgstr "Posicions Main Body"
+
+msgid "MAINBOTTOM_POS"
+msgstr "Posicions Main Bottom"
+
+msgid "EXTENSION_POS"
+msgstr "Posicions Extension"
+
+msgid "BOTTOM_POS"
+msgstr "Posicions Bottom"
+
+msgid "FOOTER_POS"
+msgstr "Posicions Footer"
+
+msgid "COPYRIGHT_POS"
+msgstr "Posicions Copyright"
+
+msgid "FORCE_POS"
+msgstr "Forçar posicions"
+
+msgid "POS_COUNT"
+msgstr "Nombre de posicions"
+
+msgid "LAYOUT_POS_DESC"
+msgstr ""
+"Usa el control lliscant per escollir la distribució de columnes per cada "
+"selecció de ginys actius en la posició indicada."
+
+msgid "ADVANCED"
+msgstr "Avançat"
+
+msgid "LAYOUT_MODE"
+msgstr "Mode de presentació"
+
+msgid "LAYOUT_MODE_DESC"
+msgstr ""
+"Tria entre mode adaptatiu i els modes fixos. Els modes fixos no s'adapten al "
+"mòbil."
+
+msgid "RESPONSIVE"
+msgstr "Adaptable"
+
+msgid "1200FIXED"
+msgstr "1200px fix"
+
+msgid "960FIXED"
+msgstr "960px fix"
+
+msgid "MAINTENANCE_MODE"
+msgstr "Mode de manteniment"
+
+msgid "MAINTENANCE_MODE_DESC"
+msgstr ""
+"Permet posar la web en mode de manteniment i impedir l'accés als usuaris no "
+"registrats."
+
+msgid "MAINTENANCE_MODE_MESSAGE"
+msgstr "Missatge"
+
+msgid "LOAD_TRANSITION"
+msgstr "Transició de càrrega"
+
+msgid "LOAD_TRANSITION_DESC"
+msgstr "Activa o desactiva els efectes d'animació en la càrrega de la pàgina."
+
+msgid "GANTRY_CACHE"
+msgstr "Memòria cau de Gantry"
+
+msgid "GANTRY_CACHE_DESC"
+msgstr "Activa o desactiva la funcionalitat de memoria cau de Gantry."
+
+msgid "CACHE_TIME"
+msgstr "Expiració de la memòria cau"
+
+msgid "COMPONENT_ENABLED"
+msgstr "Mostrar contingut"
+
+msgid "COMPONENT_ENABLED_DESC"
+msgstr "Activa i desactiva els contingut."
+
+msgid "MAINBODY_ENABLED"
+msgstr "Mostrar el cos principal"
+
+msgid "MAINBODY_ENABLED_DESC"
+msgstr ""
+"Activa o desactiva la presentació de continguts del cos principal, barres "
+"laterals i altres mòduls de la zona de continguts."
+
+msgid "RTL"
+msgstr "Suport RTL"
+
+msgid "RTL_DESC"
+msgstr "Activa o desactiva el suport a l'escriptura de dreta a esquerra (RTL)."
+
+msgid "DISABLE_AUTO_PARAGRAPHS"
+msgstr "Desactiva paràgrafs automàtics"
+
+msgid "DISABLE_AUTO_PARAGRAPHS_DESC"
+msgstr ""
+"Evita que WordPress processi els continguts afegint etiquetes HTML de "
+"paràgraf."
+
+msgid "DISABLE_AUTO_PARAGRAPHS_TYPE"
+msgstr "Tipus de contingut on aplica"
+
+msgid "DISABLE_AUTO_PARAGRAPHS_TYPE_DESC"
+msgstr ""
+"Escull el tipus de contingut que s'exclourà la gestió de paràgrafs "
+"automàtics."
+
+msgid "DISABLE_TEXTURIZE"
+msgstr "Desactiva Texturize"
+
+msgid "DISABLE_TEXTURIZE_DESC"
+msgstr ""
+"Evita que WordPress transformi alguns caràcters com ara les cometes (útil en "
+"pàgines que continguin codi)."
+
+msgid "PAGE_TEMPLATES"
+msgstr "Plantilles de pàgina"
+
+msgid "PAGESUFFIX"
+msgstr "Sufix de pàgina"
+
+msgid "PAGESUFFIX_DESC"
+msgstr ""
+"Activa o desactiva el suport de sufix de pàgina que permet afegir classes "
+"addicionals a l'etiqueta body de HTML."
+
+msgid "CLASS"
+msgstr "Classes"
+
+msgid "FEED_LINKS"
+msgstr "Enllaços feed"
+
+msgid "FEED_LINKS_DESC"
+msgstr "Activa els enllaços feeds de WordPress."
+
+msgid "CUSTOM_TITLE_TAG"
+msgstr "Personalització de l'etiqueta Title"
+
+msgid "CUSTOM_TITLE_TAG_DESC"
+msgstr ""
+"Personalitza l'etiqueta <title> amb tokens de la web de Gantry Framework."
+
+msgid "TITLE_FORMAT"
+msgstr "Format de títol"
+
+msgid "SHORTCODES_WIDGETS"
+msgstr "Shortcodes en ginys"
+
+msgid "SHORTCODES_WIDGETS_DESC"
+msgstr ""
+"Permet que Worpress reconegui els shortcodes que hi ha als continguts dels "
+"ginys."
+
+msgid "ROKSTYLE"
+msgstr "RokStyle"
+
+msgid "ROKSTYLE_DESC"
+msgstr ""
+"Permet afegir codi CSS o JavaScript directament al cos dels continguts."
+
+msgid "TYPOGRAPHY"
+msgstr "Tipografia de plantilla"
+
+msgid "TYPOGRAPHY_DESC"
+msgstr "Activa o desactiva els grups de tipografia de la plantilla."
+
+msgid "TYPOGRAPHY_STYLE"
+msgstr "Estil tipogràfic"
+
+msgid "SELECTIVIZR"
+msgstr "Selectivizr"
+
+msgid "SELECTIVIZR_DESC"
+msgstr ""
+"Activa o desactiva el suport a Selectivizr per IE8 que proporciona selectors "
+"CSS addicionals per millorar la compatibilitat."
+
+msgid "LESS_COMPILER"
+msgstr "Compilador LESS"
+
+msgid "LESS_COMPILER_DESC"
+msgstr "Escull les condicions i opcions pel compilador integrat de LESS."
+
+msgid "LESS_COMPRESSION"
+msgstr "Compressió CSS"
+
+msgid "LESS_COMPRESSION_DESC"
+msgstr ""
+"Activa o desactiva la compressió d'espais blancs del fitxer CSS resultant."
+
+msgid "LESS_COMPILEWAIT"
+msgstr "Espera del compilador"
+
+msgid "LESS_COMPILEWAIT_DESC"
+msgstr ""
+"El temps màxim que un fil php esperarà mentre un altre compila un fitxer CSS."
+
+msgid "LESS_CACHE_CLEARED"
+msgstr "S'ha esborrat la memòria cau de LESS."
+
+msgid "LESS_COMPILE_CLEAR"
+msgstr "Memòria Cau"
+
+msgid "LESS_COMPILE_CLEAR_TEXT"
+msgstr "Buida la memòria cau"
+
+msgid "LESS_DEBUGHEADER"
+msgstr "Capçaleres de Debug"
+
+msgid "LESS_DEBUGHEADER_DESC"
+msgstr ""
+"Mostra informació sobre la compilació LESS a la capçalera del fitxer CSS "
+"resultant."
+
+msgid "ASSIGNMENTS"
+msgstr "Assignacions"
+
+msgid "PRESET_TITLE"
+msgstr "Títol del preset"
+
+msgid "PRESET_SELECT"
+msgstr ""
+"Escull els presets que vols desar i tria un nou nom. Prem omet en una secció "
+"de Preset si no vols desar-lo com un nou preset específic."
+
+msgid "PRESET_NAME"
+msgstr "Nom de preset"
+
+msgid "KEY_NAME"
+msgstr "Nom de clau"
+
+msgid "PRESET_SKIP"
+msgstr "Omet"
+
+msgid "PRESET_NAMING"
+msgstr "Anomenar el preset"
+
+msgid "SUCCESS_SAVE"
+msgstr "Preset desat amb èxit!"
+
+msgid "FAIL_SAVE"
+msgstr "Error al desar"
+
+msgid "FAIL_MSG"
+msgstr ""
+"<p>Sembla que no s'ha pogut desar correctament el nou preset. Assegura't que "
+"la carpeta de plantilla i els fitxers custom.ini i presets.ini del directori "
+"arrel de la plantilla tenen permisos suficients.</p><p>Un cop creguis que "
+"has fixat els permisos, prem el botó <em>Tornar a provar</em>.</p><p>Si "
+"encara falla, demana ajuda als forums de RocketTheme.</p>"
+
+msgid "RETRY"
+msgstr "Torna a provar"
+
+msgid "SAVE"
+msgstr "Desa"
+
+msgid "CANCEL"
+msgstr "Cancel·la"
+
+msgid "BLOG_VIEW"
+msgstr "Vista de Blog"
+
+msgid "PAGE_VIEW"
+msgstr "Vista de pàgina"
+
+msgid "POST_VIEW"
+msgstr "Vista de post"
+
+msgid "CATEGORY_VIEW"
+msgstr "Vista de categoria"
+
+msgid "ARCHIVE_VIEW"
+msgstr "Vista d'arxiu"
+
+msgid "TAG_VIEW"
+msgstr "Vista d'etiqueta"
+
+msgid "SEARCH_VIEW"
+msgstr "Vista de cerca"
+
+msgid "SAVE_AS_COPY_SUFFIX"
+msgstr "Duplica substitució"

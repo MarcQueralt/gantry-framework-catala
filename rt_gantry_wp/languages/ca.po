@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gantry - Català\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marc Queralt <marc@demomentsomtres.com>\n"
+"Language-Team: DeMomentSomTres <dms3@demomentsomtres.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: ca\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "TEMPLATE_NAME_SETTINGS"
+msgstr "Configuració de Gantry"
+
+# ------------------- ADMIN ------------------- #
+msgid "BLOG_CATEGORY"
+msgstr "Categoria del blog"
+
+msgid "BLOG_CATEGORY_DESC"
+msgstr "Incloure o excloure IDs de categoria de la consulta del Blog."
+
+msgid "POSTS_DISPLAY"
+msgstr "Presentació d'entrades"
+
+msgid "POSTS_DISPLAY_DESC"
+msgstr "Fixa el nombre d'entrades a mostrar."
+
+msgid "LEADING_POSTS"
+msgstr "Entrades principals"
+
+msgid "LEADING_POSTS_DESC"
+msgstr "Nombre d'entrades principals a mostrar."
+
+msgid "INTRO_POSTS"
+msgstr "Entrades d'introducció"
+
+msgid "INTRO_POSTS_DESC"
+msgstr "Nombre d'entrades d'introducció a mostrar."
+
+msgid "COLUMNS"
+msgstr "Columnes"
+
+msgid "COLUMNS_DESC"
+msgstr "Nombre de columnes per mostrar les entrades d'introducció."
+
+msgid "QUERY"
+msgstr "Consulta"
+
+msgid "QUERY_DESC"
+msgstr "Configuració de la consulta de cerca de la vista de blog."
+
+msgid "QUERY_TYPE"
+msgstr "Escriu la consulta"
+
+msgid "QUERY_TYPE_DESC"
+msgstr "Estableix el tipus de continguts a mostrar a la vista de blog."
+
+msgid "ANY"
+msgstr "Qualsevol"
+
+msgid "ATTACHMENT"
+msgstr "Annex"
+
+msgid "PAGE"
+msgstr "Pàgina"
+
+msgid "POST"
+msgstr "Entrada"
+
+msgid "REVISION"
+msgstr "Revisió"
+
+msgid "ORDER"
+msgstr "Ordre"
+
+msgid "ORDER_DESC"
+msgstr "Canvia l'ordre de presentació de les entrades."
+
+msgid "AUTHOR"
+msgstr "Autor"
+
+msgid "COMMENT_COUNT"
+msgstr "Nombre de comentaris"
+
+msgid "DATE"
+msgstr "Data"
+
+msgid "TITLE"
+msgstr "Títol"
+
+msgid "MODIFIED"
+msgstr "Modificació"
+
+msgid "NAME"
+msgstr "Nom"
+
+msgid "None"
+msgstr "Cap"
+
+msgid "PARENT"
+msgstr "Pare"
+
+msgid "RANDOM"
+msgstr "Aleatori"
+
+msgid "CUSTOM_QUERY"
+msgstr "Consulta personalitzada"
+
+msgid "CUSTOM_QUERY_DESC"
+msgstr ""
+"Crea la teva pròpia consulta afegint arguments compatibles amb WP_Query."
+
+msgid "CONTENT_TYPE"
+msgstr "Tipus de contingut"
+
+msgid "CONTENT_TYPE_DESC"
+msgstr "Selecciona entre contingut sencer o resum."
+
+msgid "CONTENT"
+msgstr "Contingut"
+
+msgid "EXCERPT"
+msgstr "Resum"
+
+msgid "PAGE_HEADING"
+msgstr "Capçalera de pàgina"
+
+msgid "PAGE_HEADING_DESC"
+msgstr "Mostra la capçalera de pàgina."
+
+msgid "ENABLED"
+msgstr "Actiu"
+
+msgid "CUSTOM_HEADING"
+msgstr "Capçalera personalitzada"
+
+msgid "CUSTOM_HEADING_DESC"
+msgstr "Escriu la teva capçalera personalitzada."
+
+msgid "SHOW_POST_TITLES"
+msgstr "Mostra el títol de les entrades"
+
+msgid "SHOW_POST_TITLES_DESC"
+msgstr "Mostra el títol de les entrades individuals."
+
+msgid "LINK"
+msgstr "Enllaç"
+
+msgid "LINK_DESC"
+msgstr "Afegeix un enllaç cap a l'entrada."
+
+msgid "AUTHOR_META"
+msgstr "Metadades: autor"
+
+msgid "AUTHOR_META_DESC"
+msgstr "Mostra l'autor de l'entrada."
+
+msgid "PREFIX"
+msgstr "Prefix"
+
+msgid "PREFIX_DESC"
+msgstr "Afegeix un prefix personalitzat."
+
+msgid "DATE_META"
+msgstr "Metadades: data"
+
+msgid "DATE_META_DESC"
+msgstr "Mostra la data de creació de l'entrada."
+
+msgid "FORMAT"
+msgstr "Format"
+
+msgid "FORMAT_DESC"
+msgstr "Fixa el format de data d'acord al format de data de PHP."
+
+msgid "MODIFIED_DATE_META"
+msgstr "Metadada: modificació"
+
+msgid "MODIFIED_DATE_META_DESC"
+msgstr "Mostra la data de modificació del contingut."
+
+msgid "COMMENTS_META_DATA"
+msgstr "Metadades: comentaris"
+
+msgid "COMMENTS_META_DATA_DESC"
+msgstr "Mostra el nombre de comentaris del contingut."
+
+msgid "SHOW_POST_CATEGORY"
+msgstr "Mostra la categoria de l'entrada"
+
+msgid "SHOW_POST_CATEGORY_DESC"
+msgstr "Mostra la primera categoria assignada al contingut."
+
+msgid "SHOW_POST_PARENT_CATEGORY"
+msgstr "Mostra la categoria pare"
+
+msgid "SHOW_POST_PARENT_CATEGORY_DESC"
+msgstr ""
+"Mostra la categoria pare de la categoria a la que està assignat el post."
+
+msgid "READ_MORE"
+msgstr "Més"
+
+msgid "READ_MORE_DESC"
+msgstr "Configura el comportament del botó Més."
+
+msgid "LABEL"
+msgstr "Etiqueta"
+
+msgid "DISPLAY"
+msgstr "Mostra"
+
+msgid "DISPLAY_DESC"
+msgstr "Configura quan el botó Més ha d'aparèixer."
+
+msgid "AUTO"
+msgstr "Automàtic"
+
+msgid "ALWAYS"
+msgstr "Sempre"
+
+msgid "NEVER"
+msgstr "Mai"
+
+msgid "PAGE_VIEW"
+msgstr "Vista de pàgina"
+
+msgid "SHOW_TITLE"
+msgstr "Mostra el títol"
+
+msgid "SHOW_TITLE_DESC"
+msgstr "Mostra el títol de la pàgina."
+
+msgid "SHOW_FEATURED_IMAGE"
+msgstr "Mostra la imatge destacada"
+
+msgid "SHOW_FEATURED_IMAGE_DESC"
+msgstr ""
+"Determina si la imatge destacada dels continguts ha d'aparèixer a la vista "
+"de contingut complet."
+
+msgid "SHOW_COMMENTS"
+msgstr "Mostra comentaris"
+
+msgid "SHOW_COMMENTS_DESC"
+msgstr ""
+"Mostra els comentaris i el formulari de comentaris a la vista completa."
+
+msgid "HTML_TAGS"
+msgstr "Permet tags HTML"
+
+msgid "HTML_TAGS_DESC"
+msgstr ""
+"Mostra un peu amb els tags HTML permesos sota el formulari de recollida de "
+"comentaris."
+
+msgid "SHOW_TAGS"
+msgstr "Mostra etiquetes"
+
+msgid "SHOW_TAGS_DESC"
+msgstr "Mostra les etiquetes al peu del contingut."
+
+msgid "SHOW_FOOTER_NOTE"
+msgstr "Mostrar nota al peu"
+
+msgid "SHOW_FOOTER_NOTE_DESC"
+msgstr "Mostra el peu del contingut a sota."
+
+msgid "POST_VIEW"
+msgstr "Vista d'entrada"
+
+msgid "CATEGORY_VIEW"
+msgstr "Vista de categoria"
+
+msgid "POST_COUNT"
+msgstr "Nombre d'entrades"
+
+msgid "POST_COUNT_DESC"
+msgstr "Nombre d'entrades que es mostren a la pàgina."
+
+msgid "ARCHIVE_VIEW"
+msgstr "Vista d'arxiu"
+
+msgid "TAG_VIEW"
+msgstr "Vista d'etiqueta"
+
+msgid "SEARCH_VIEW"
+msgstr "Vista de cerca"
+
+msgid "HEADER_STYLE"
+msgstr "Estil de la capçalera"
+
+msgid "HEADER_STYLE_DESC"
+msgstr "Tria un dels estils per la capçalera de la plantilla."
+
+msgid "CONTACT_FORM"
+msgstr "Formulari de contacte"
+
+msgid "CONTACT_EMAIL"
+msgstr "Email de contacte"
+
+msgid "CONTACT_EMAIL_DESC"
+msgstr ""
+"Adreça on s'enviaran els emails. Si es deixa buit, s'usarà la de "
+"l'administrador."
+
+msgid "RECAPTCHA"
+msgstr "reCaptcha"
+
+msgid "RECAPTCHA_DESC"
+msgstr ""
+"Si està actiu, l'usuari haurà de resoldre un captcha abans d'enviar el "
+"missatge."
+
+msgid "PUBLIC_KEY"
+msgstr "Clau pública"
+
+msgid "PRIVATE_KEY"
+msgstr "Clau privada"
+
+#: 404.php:52
+msgid "Page not found"
+msgstr "Pàgina no trobada"
+
+#: 404.php:54
+msgid "You may not be able to visit this page because of:"
+msgstr "No pots veure aquesta pàgina per alguna de les raons següents:"
+
+#: 404.php:56
+msgid "an out-of-date bookmark/favourite"
+msgstr "l'enlllaç està desactualitzat"
+
+#: 404.php:57
+msgid "a search engine that has an out-of-date listing for this site"
+msgstr "el cercador que has utilitzat conserva un enllaç antic"
+
+#: 404.php:58
+msgid "a mistyped address"
+msgstr "has escrit l'adreça malament"
+
+#: 404.php:59
+msgid "you have no access to this page"
+msgstr "no tens accés a la pàgina que demanes"
+
+#: 404.php:60
+msgid "The requested resource was not found."
+msgstr "demanes un recurs que no existeix"
+
+#: 404.php:61
+msgid "An error has occurred while processing your request."
+msgstr "s'ha produït algun error mentre es processava la teva petició"
+
+#: 404.php:63
+msgid "Home"
+msgstr "Inici"
+
+#: functions.php:34
+msgid ""
+"The active theme requires the Gantry Framework Plugin to be installed and "
+"active"
+msgstr ""
+"El tema actiu necessita que l'extensió Gantry Framework Pluguin estigui "
+"instal·lada i activa"
+
+#: functions.php:90
+msgid "Next"
+msgstr "Següent"
+
+#: functions.php:91
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:111
+msgid "Page %1$s of %2$s"
+msgstr "Pàgina %1$s de %2$s"
+
+#: html/404.php:12
+msgid "404 Page Not Found"
+msgstr "404 Pàgina no trobada"
+
+#: html/archive.php:47
+msgid "Daily Archives: %s"
+msgstr "Arxiu diari de %s"
+
+#: html/archive.php:49
+msgid "Monthly Archives: %s"
+msgstr "Arxiu mensual de %s"
+
+#: html/archive.php:49
+msgid "F Y"
+msgstr "F Y"
+
+#: html/archive.php:51
+msgid "Yearly Archives: %s"
+msgstr "Arxiu de l'any %s"
+
+#: html/archive.php:51
+msgid "Y"
+msgstr "Y"
+
+#: html/archive.php:53
+msgid "Archives"
+msgstr "Arxiu"
+
+#: html/archive.php:83 html/author.php:120 html/category.php:73
+#: html/tag.php:73
+msgid "Sorry, but there aren't any posts matching your query."
+msgstr "No hi ha cap contingut que coincideixi amb la teva petició"
+
+#: html/author.php:55
+msgid "Author Archives: %s"
+msgstr "Arxiu de l'autor %s"
+
+#: html/author.php:79
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: html/category.php:45
+msgid "Category Archives: %s"
+msgstr "Arxiu de la categoria %s"
+
+#: html/content/content-blog.php:128 html/content/content-blog.php:134
+#: html/content/content-contactpage.php:77
+#: html/content/content-contactpage.php:83 html/content/content-page.php:76
+#: html/content/content-page.php:82 html/content/content-single.php:128
+#: html/content/content-single.php:134 html/content/content.php:130
+#: html/content/content.php:136
+msgid "0 Comments"
+msgstr "Cap comentari"
+
+#: html/content/content-blog.php:128 html/content/content-blog.php:134
+#: html/content/content-contactpage.php:77
+#: html/content/content-contactpage.php:83 html/content/content-page.php:76
+#: html/content/content-page.php:82 html/content/content-single.php:128
+#: html/content/content-single.php:134 html/content/content.php:130
+#: html/content/content.php:136
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: html/content/content-blog.php:128 html/content/content-blog.php:134
+#: html/content/content-contactpage.php:77
+#: html/content/content-contactpage.php:83 html/content/content-page.php:76
+#: html/content/content-page.php:82 html/content/content-single.php:128
+#: html/content/content-single.php:134 html/content/content.php:130
+#: html/content/content.php:136
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: html/content/content-contactpage.php:113 html/content/content-page.php:114
+#: html/content/content-single.php:166 html/layouts/comment_standard.php:79
+msgid "Edit"
+msgstr "Modificar"
+
+#: html/content/content-contactpage.php:122
+msgid "Your email was sent successfully. Thank you!"
+msgstr "El teu correu s'ha enviat. Moltes gràcies!"
+
+#: html/content/content-contactpage.php:126
+msgid "Back to the homepage"
+msgstr "Tornar a la pàgina d'inici"
+
+#: html/content/content-contactpage.php:134
+msgid "Sorry, an error occured. Please try again."
+msgstr "S'ha produït un error. Intenta-ho de nou."
+
+#: html/content/content-contactpage.php:142
+#: html/layouts/commentstempl_standard.php:152
+msgid "Name"
+msgstr "Nom"
+
+#: html/content/content-contactpage.php:154
+#: html/layouts/commentstempl_standard.php:162
+msgid "Email"
+msgstr "Email"
+
+#: html/content/content-contactpage.php:166
+msgid "Message"
+msgstr "Missatge"
+
+#: html/content/content-contactpage.php:197
+msgid "Send me a copy of this email."
+msgstr "Envia'm una còpia d'aquest missatge"
+
+#: html/content/content-contactpage.php:199
+msgid "Send Message"
+msgstr "Enviar missatge"
+
+#: html/content/content-page.php:112 html/content/content-single.php:164
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: html/content/content-single.php:195
+msgid "This entry was posted"
+msgstr "L'entrada ha estat publicada"
+
+#: html/content/content-single.php:200
+msgid "on"
+msgstr "el"
+
+#: html/content/content-single.php:200
+msgid "at"
+msgstr "a"
+
+#: html/content/content-single.php:201
+msgid "and is filed under"
+msgstr "i s'ha classificat com"
+
+#: html/content/content-single.php:202
+msgid "You can follow any responses to this entry through the"
+msgstr "Pots seguir qualsevol reacció a aquesta entrada a través de"
+
+#: html/content/content-single.php:202
+msgid "feed"
+msgstr "feed"
+
+#: html/content/content-single.php:206
+msgid "You can"
+msgstr "Pots"
+
+#: html/content/content-single.php:206
+msgid "leave a response"
+msgstr "deixar un comentari"
+
+#: html/content/content-single.php:206
+msgid "or"
+msgstr "o"
+
+#: html/content/content-single.php:206 html/content/content-single.php:210
+msgid "trackback"
+msgstr "retroenllaç"
+
+#: html/content/content-single.php:206 html/content/content-single.php:210
+msgid "from your own site."
+msgstr "des del teu propi web."
+
+#: html/content/content-single.php:210
+msgid "Responses are currently closed, but you can"
+msgstr "No s'admeten comentaris, però pots"
+
+#: html/content/content-single.php:214
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+"Pots anar fins el final i deixar una resposta. En aquest moment no es permet "
+"el ping."
+
+#: html/content/content-single.php:218
+msgid "Both comments and pings are currently closed."
+msgstr "No es permeten ni comentaris no pings."
+
+#: html/content/content-single.php:220
+msgid "Edit this entry"
+msgstr "Modifica l'entrada"
+
+#: html/gantrymenu/themes/catalog.php:10
+msgid "Gantry Dropdown"
+msgstr "Desplegable Gantry"
+
+#: html/gantrymenu/themes/catalog.php:13
+msgid "Gantry SplitMenu"
+msgstr "SplitMenu de Gantry"
+
+#: html/gantrymenu/themes/itemfields.php:32
+msgid "Subtext"
+msgstr "Subtext"
+
+#: html/gantrymenu/themes/itemfields.php:39
+msgid "Custom Image"
+msgstr "Imatge personalitzada"
+
+#: html/gantrymenu/themes/itemfields.php:41
+#: html/gantrymenu/themes/itemfields.php:66
+msgid "- None Selected -"
+msgstr "- selecciona una opció -"
+
+#: html/gantrymenu/themes/itemfields.php:64
+msgid "Custom Icon"
+msgstr "Icona personalitzada"
+
+#: html/gantrymenu/themes/itemfields.php:78
+msgid "Number of Columns in Submenu"
+msgstr "Nombre de columnes al submenú"
+
+#: html/gantrymenu/themes/itemfields.php:90
+msgid "Item Distribution"
+msgstr "Distribució dels elements"
+
+#: html/gantrymenu/themes/itemfields.php:92
+msgid "Evenly"
+msgstr "Uniformement"
+
+#: html/gantrymenu/themes/itemfields.php:94
+msgid "In Order"
+msgstr "Per ordre"
+
+#: html/gantrymenu/themes/itemfields.php:96
+msgid "Manually"
+msgstr "Manualment"
+
+#: html/gantrymenu/themes/itemfields.php:102
+msgid "Manual Item Distribution"
+msgstr "Distribució manual dels elements"
+
+#: html/gantrymenu/themes/itemfields.php:109
+msgid "Group Child Items"
+msgstr "Agrupar els elements fills"
+
+#: html/gantrymenu/themes/itemfields.php:111
+msgid "No"
+msgstr "No"
+
+#: html/gantrymenu/themes/itemfields.php:112
+msgid "Yes"
+msgstr "Sí"
+
+#: html/gantrymenu/themes/itemfields.php:119
+msgid "Drop-Down Width (px)"
+msgstr "Ample del desplegable (px)"
+
+#: html/gantrymenu/themes/itemfields.php:126
+msgid "Column Widths (px)"
+msgstr "Amplada de la columna (px)"
+
+#: html/layouts/body_contactform.php:64
+msgid "Please enter your name."
+msgstr "Escriu el teu nom."
+
+#: html/layouts/body_contactform.php:72
+msgid "Please enter your email address."
+msgstr "Escriu el teu email."
+
+#: html/layouts/body_contactform.php:76
+msgid "You entered an invalid email address."
+msgstr "L'email no és vàlid."
+
+#: html/layouts/body_contactform.php:84
+msgid "Please enter a message."
+msgstr "Escriu un missatge."
+
+#: html/layouts/body_contactform.php:104
+msgid "The entered reCaptcha is incorrect. Please try again."
+msgstr "El codi reCaptcha és incorrecte. Torna a provar-ho."
+
+#: html/layouts/body_contactform.php:113
+msgid "[Contact Form] From:"
+msgstr "[Formulari de contacte] De:"
+
+#: html/layouts/body_contactform.php:114
+msgid "Name:"
+msgstr "Nom:"
+
+#: html/layouts/body_contactform.php:114
+msgid "Email:"
+msgstr "Email:"
+
+#: html/layouts/body_contactform.php:115
+msgid "From:"
+msgstr "De:"
+
+#: html/layouts/body_contactform.php:115
+msgid "Reply-To:"
+msgstr "Respon-a:"
+
+#: html/layouts/body_contactform.php:173 html/page.php:39
+msgid "Sorry, no pages matched your criteria."
+msgstr "No hi ha cap pàgina que correspongui amb aquest criteri."
+
+#: html/layouts/comment_standard.php:59
+msgid "Your comment is awaiting moderation."
+msgstr "El teu comentari està pendent de moderació."
+
+#: html/layouts/comment_standard.php:72
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: html/layouts/comment_standard.php:83
+#: html/layouts/commentstempl_standard.php:64
+msgid "Reply"
+msgstr "Respon"
+
+#: html/layouts/commentstempl_standard.php:39
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Aquesta contingut està protegit amb contrasenta. Escriu-la per veure els "
+"comentaris."
+
+#: html/layouts/commentstempl_standard.php:73
+msgid "Older Comments"
+msgstr "Comentaris més antics"
+
+#: html/layouts/commentstempl_standard.php:76
+msgid "Newer Comments"
+msgstr "Comentaris més recents"
+
+#: html/layouts/commentstempl_standard.php:95
+msgid "Comments are closed."
+msgstr "No s'admeten comentaris"
+
+#: html/layouts/commentstempl_standard.php:111
+msgid "Leave a Reply"
+msgstr "Deixa un comentari"
+
+#: html/layouts/commentstempl_standard.php:111
+msgid "Leave a Reply to %s"
+msgstr "Deixa un comentari a %s"
+
+#: html/layouts/commentstempl_standard.php:117
+msgid "Cancel Reply"
+msgstr "No enviïs el comentari"
+
+#: html/layouts/commentstempl_standard.php:138
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"btn btn-mini"
+"\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+"Estàs connectat com <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"btn "
+"btn-mini\" title=\"Desconnecta't d'aquest compte\">Desconnecta't</a>"
+
+#: html/layouts/commentstempl_standard.php:145
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "El teu email no es publicarà. Els camps requerits estan marcats amb *"
+
+#: html/layouts/commentstempl_standard.php:172
+msgid "Website"
+msgstr "Web"
+
+#: html/layouts/commentstempl_standard.php:183
+msgid "Comment"
+msgstr "Comentari"
+
+#: html/layouts/commentstempl_standard.php:195
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\" class="
+"\"initialism\">HTML</abbr> tags and attributes: <code>%1$s</code>"
+msgstr ""
+"Pots utilitzar els següents elements i atributs d'<abbr title=\"HyperText "
+"Markup Language\" class=\"initialism\">HTML</abbr>: <code>%1$s</code>"
+
+#: html/layouts/commentstempl_standard.php:203
+msgid "Post Comment"
+msgstr "Envia el comentari"
+
+#: html/search.php:45
+msgid "Search Results for: %s"
+msgstr "Resultat de la cerca %s"
+
+#: html/search.php:73
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"No hi ha res que encaixi amb el criteri de cerca. Intenta-ho de nou amb uns "
+"altres termes de cerca."
+
+#: html/single.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr "Cap contingut coincideix amb el criteri."
+
+#: html/tag.php:45
+msgid "Tag Archives: %s"
+msgstr "Arxiu de l'etiqueta %s"
+
+#: searchform.php:13 searchform.php:14
+msgid "Search"
+msgstr "Cerca"
+
+#: widgets/recentcomments.php:96
+msgid "By %1$s"
+msgstr "Per %1$s"
