@@ -29,7 +29,7 @@ msgid "THEME_SETTINGS"
 msgstr "configuració del tema"
 
 msgid "SUCCESS_MSG"
-msgstr "El nou preset s'ha gravat correctament i està a punt.</p>"
+msgstr "El nou preset s&#39;ha gravat correctament i està a punt.</p>"
 
 msgid "SHOW"
 msgstr "Mostra"
@@ -83,7 +83,7 @@ msgid "END"
 msgstr "Final"
 
 msgid "TOOLBAR"
-msgstr "Barra d'eines"
+msgstr "Barra d&#39;eines"
 
 msgid "OVERVIEW"
 msgstr "General"
@@ -110,7 +110,7 @@ msgid "LOGO"
 msgstr "Logo"
 
 msgid "LOGO_DESC"
-msgstr "Activa i desactiva el logo. Si s'activa permet escollir-lo."
+msgstr "Activa i desactiva el logo. Si s&#39;activa permet escollir-lo."
 
 msgid "CUSTOM"
 msgstr "Personalitzat"
@@ -135,7 +135,7 @@ msgid "LOGO_STYLE"
 msgstr "Estil de logo"
 
 msgid "LOGO_STYLE_DESC"
-msgstr "Selecciona l'estil de logo entre les opcions pre-definides."
+msgstr "Selecciona l&#39;estil de logo entre les opcions pre-definides."
 
 msgid "FEATURED_IMAGE_SIZE"
 msgstr "Mida de la imatge destacada"
@@ -160,8 +160,8 @@ msgstr "Fonts de lletra web"
 
 msgid "WEBFONTS_DESC"
 msgstr ""
-"Permet establir si s'usen fonts de lletra amb compatibilitat web de tercers "
-"o no."
+"Permet establir si s&#39;usen fonts de lletra amb compatibilitat web de "
+"tercers o no."
 
 msgid "WEBFONTS_SOURCE"
 msgstr "Tipus de lletra"
@@ -227,7 +227,7 @@ msgid "CUSTOM_CSS"
 msgstr "CSS personalitzat"
 
 msgid "CUSTOM_CSS_DESC"
-msgstr "El teu propi codi CSS que s'afegirà dins la secció <head>."
+msgstr "El teu propi codi CSS que s&#39;afegirà dins la secció <head>."
 
 msgid "TEXT"
 msgstr "Text"
@@ -297,7 +297,7 @@ msgstr "Reiniciar configuració"
 
 msgid "RESETSETTINGS_DESC"
 msgstr ""
-"Activa o desactiva l'enllaç de reiniciar configuració i li assigna una "
+"Activa o desactiva l&#39;enllaç de reiniciar configuració i li assigna una "
 "posició per defecte."
 
 msgid "ANALYTICS"
@@ -364,13 +364,13 @@ msgid "MENU_DELAY"
 msgstr "Espera del menú"
 
 msgid "MENU_DELAY_DESC"
-msgstr "Estableix el temps d'espera pels menús desplegables."
+msgstr "Estableix el temps d&#39;espera pels menús desplegables."
 
 msgid "MENU_ANIMATION"
 msgstr "Animació del menú"
 
 msgid "MENU_ANIMATION_DESC"
-msgstr "Escull un tipus d'animació pel menú"
+msgstr "Escull un tipus d&#39;animació pel menú"
 
 msgid "MENU_DURATION"
 msgstr "Durada del menú"
@@ -385,7 +385,7 @@ msgid "ENABLE_ID"
 msgstr "Activa ID"
 
 msgid "ENABLE_ID_DESC"
-msgstr "Activa o desactiva l'ID de menú actiu de WordPress."
+msgstr "Activa o desactiva l&#39;ID de menú actiu de WordPress."
 
 msgid "MAINMENU_POS"
 msgstr "Posició del menú principal"
@@ -415,13 +415,13 @@ msgid "SUBMENUMODULE_CLASS_SFX"
 msgstr "Sufix de classe pel mòdul de submenú"
 
 msgid "SUBMENUMODULE_CLASS_SFX_DESC"
-msgstr "Estableix un sufix de classe pel giny de submenú de l'split menú."
+msgstr "Estableix un sufix de classe pel giny de submenú de l&#39;split menú."
 
 msgid "RESPONSIVE_MENU"
 msgstr "Menú adaptatiu"
 
 msgid "RESPONSIVE_MENU_DESC"
-msgstr "Escull l'estil de visualització del menú en vista mòbil o tablet."
+msgstr "Escull l&#39;estil de visualització del menú en vista mòbil o tablet."
 
 msgid "PANEL"
 msgstr "Panell"
@@ -433,7 +433,7 @@ msgid "LAYOUTS"
 msgstr "Distribucions"
 
 msgid "FULLWIDTH_POS"
-msgstr "Posicions d'ample complet"
+msgstr "Posicions d&#39;ample complet"
 
 msgid "TOP_POS"
 msgstr "Posicions Top"
@@ -493,8 +493,8 @@ msgstr "Mode de presentació"
 
 msgid "LAYOUT_MODE_DESC"
 msgstr ""
-"Tria entre mode adaptatiu i els modes fixos. Els modes fixos no s'adapten al "
-"mòbil."
+"Tria entre mode adaptatiu i els modes fixos. Els modes fixos no s&#39;"
+"adapten al mòbil."
 
 msgid "RESPONSIVE"
 msgstr "Adaptable"
@@ -510,8 +510,8 @@ msgstr "Mode de manteniment"
 
 msgid "MAINTENANCE_MODE_DESC"
 msgstr ""
-"Permet posar la web en mode de manteniment i impedir l'accés als usuaris no "
-"registrats."
+"Permet posar la web en mode de manteniment i impedir l&#39;accés als usuaris "
+"no registrats."
 
 msgid "MAINTENANCE_MODE_MESSAGE"
 msgstr "Missatge"
@@ -520,7 +520,8 @@ msgid "LOAD_TRANSITION"
 msgstr "Transició de càrrega"
 
 msgid "LOAD_TRANSITION_DESC"
-msgstr "Activa o desactiva els efectes d'animació en la càrrega de la pàgina."
+msgstr ""
+"Activa o desactiva els efectes d&#39;animació en la càrrega de la pàgina."
 
 msgid "GANTRY_CACHE"
 msgstr "Memòria cau de Gantry"
@@ -549,7 +550,8 @@ msgid "RTL"
 msgstr "Suport RTL"
 
 msgid "RTL_DESC"
-msgstr "Activa o desactiva el suport a l'escriptura de dreta a esquerra (RTL)."
+msgstr ""
+"Activa o desactiva el suport a l&#39;escriptura de dreta a esquerra (RTL)."
 
 msgid "DISABLE_AUTO_PARAGRAPHS"
 msgstr "Desactiva paràgrafs automàtics"
@@ -564,7 +566,7 @@ msgstr "Tipus de contingut on aplica"
 
 msgid "DISABLE_AUTO_PARAGRAPHS_TYPE_DESC"
 msgstr ""
-"Escull el tipus de contingut que s'exclourà la gestió de paràgrafs "
+"Escull el tipus de contingut que s&#39;exclourà la gestió de paràgrafs "
 "automàtics."
 
 msgid "DISABLE_TEXTURIZE"
@@ -584,7 +586,7 @@ msgstr "Sufix de pàgina"
 msgid "PAGESUFFIX_DESC"
 msgstr ""
 "Activa o desactiva el suport de sufix de pàgina que permet afegir classes "
-"addicionals a l'etiqueta body de HTML."
+"addicionals a l&#39;etiqueta body de HTML."
 
 msgid "CLASS"
 msgstr "Classes"
@@ -596,11 +598,11 @@ msgid "FEED_LINKS_DESC"
 msgstr "Activa els enllaços feeds de WordPress."
 
 msgid "CUSTOM_TITLE_TAG"
-msgstr "Personalització de l'etiqueta Title"
+msgstr "Personalització de l&#39;etiqueta Title"
 
 msgid "CUSTOM_TITLE_TAG_DESC"
 msgstr ""
-"Personalitza l'etiqueta <title> amb tokens de la web de Gantry Framework."
+"Personalitza l&#39;etiqueta <title> amb tokens de la web de Gantry Framework."
 
 msgid "TITLE_FORMAT"
 msgstr "Format de títol"
@@ -648,7 +650,8 @@ msgstr "Compressió CSS"
 
 msgid "LESS_COMPRESSION_DESC"
 msgstr ""
-"Activa o desactiva la compressió d'espais blancs del fitxer CSS resultant."
+"Activa o desactiva la compressió d&#39;espais blancs del fitxer CSS "
+"resultant."
 
 msgid "LESS_COMPILEWAIT"
 msgstr "Espera del compilador"
@@ -658,7 +661,7 @@ msgstr ""
 "El temps màxim que un fil php esperarà mentre un altre compila un fitxer CSS."
 
 msgid "LESS_CACHE_CLEARED"
-msgstr "S'ha esborrat la memòria cau de LESS."
+msgstr "S&#39;ha esborrat la memòria cau de LESS."
 
 msgid "LESS_COMPILE_CLEAR"
 msgstr "Memòria Cau"
@@ -705,11 +708,12 @@ msgstr "Error al desar"
 
 msgid "FAIL_MSG"
 msgstr ""
-"<p>Sembla que no s'ha pogut desar correctament el nou preset. Assegura't que "
-"la carpeta de plantilla i els fitxers custom.ini i presets.ini del directori "
-"arrel de la plantilla tenen permisos suficients.</p><p>Un cop creguis que "
-"has fixat els permisos, prem el botó <em>Tornar a provar</em>.</p><p>Si "
-"encara falla, demana ajuda als forums de RocketTheme.</p>"
+"<p>Sembla que no s&#39;ha pogut desar correctament el nou preset. "
+"Assegura&#39;t que la carpeta de plantilla i els fitxers custom.ini i "
+"presets.ini del directori arrel de la plantilla tenen permisos suficients.</"
+"p><p>Un cop creguis que has fixat els permisos, prem el botó <em>Tornar a "
+"provar</em>.</p><p>Si encara falla, demana ajuda als forums de RocketTheme.</"
+"p>"
 
 msgid "RETRY"
 msgstr "Torna a provar"
@@ -733,10 +737,10 @@ msgid "CATEGORY_VIEW"
 msgstr "Vista de categoria"
 
 msgid "ARCHIVE_VIEW"
-msgstr "Vista d'arxiu"
+msgstr "Vista d&#39;arxiu"
 
 msgid "TAG_VIEW"
-msgstr "Vista d'etiqueta"
+msgstr "Vista d&#39;etiqueta"
 
 msgid "SEARCH_VIEW"
 msgstr "Vista de cerca"
