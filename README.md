@@ -7,4 +7,5 @@ Catalan translation of Gantry Framework for WordPress (gantry plugin & rt_gantry
 
 ChangeLog
 ---------
+v.4.0.6.a - Spanish added
 v.4.0.6 - Initial version

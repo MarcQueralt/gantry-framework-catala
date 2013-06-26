@@ -1,0 +1,771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gantry Theme Castellano\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marc Queralt <marc@demomentsomtres.com>\n"
+"Language-Team: DeMomentSomTres <dms3@demomentsomtres.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: es_ES\n"
+
+msgid "TEMPLATE_NAME_SETTINGS"
+msgstr "Configuración de Gantry"
+
+# ------------------- ADMIN ------------------- #
+msgid "BLOG_CATEGORY"
+msgstr "Categoría del blog"
+
+msgid "BLOG_CATEGORY_DESC"
+msgstr "Incluye o excluye IDs de categoría de la consulta de Blog."
+
+msgid "POSTS_DISPLAY"
+msgstr "Mostrar entradas"
+
+msgid "POSTS_DISPLAY_DESC"
+msgstr "Número de entradas a mostrar."
+
+msgid "LEADING_POSTS"
+msgstr "Entradas de cabecera"
+
+msgid "LEADING_POSTS_DESC"
+msgstr "Número de entraps destacadas a mostrar."
+
+msgid "INTRO_POSTS"
+msgstr "Entradas de intro"
+
+msgid "INTRO_POSTS_DESC"
+msgstr "Post a mostrar como intro"
+
+msgid "COLUMNS"
+msgstr "Columnas"
+
+msgid "COLUMNS_DESC"
+msgstr "Número de columnas para mostrar los Intro posts."
+
+msgid "QUERY"
+msgstr "Consulta"
+
+msgid "QUERY_DESC"
+msgstr "Consulta de la vista de blog."
+
+msgid "QUERY_TYPE"
+msgstr "Tipo de contenido"
+
+msgid "QUERY_TYPE_DESC"
+msgstr "Identificar el tipo de contenido a mostrar en la vista de Blog."
+
+msgid "ANY"
+msgstr "Cualquiera"
+
+msgid "ATTACHMENT"
+msgstr "Attachments"
+
+msgid "PAGE"
+msgstr "Página"
+
+msgid "POST"
+msgstr "Entrada"
+
+msgid "REVISION"
+msgstr "Revisión"
+
+msgid "ORDER"
+msgstr "Orden"
+
+msgid "ORDER_DESC"
+msgstr "Escoge el orden para mostrar los posts."
+
+msgid "AUTHOR"
+msgstr "Autor"
+
+msgid "COMMENT_COUNT"
+msgstr "Número de comentarios"
+
+msgid "DATE"
+msgstr "Fecha"
+
+msgid "TITLE"
+msgstr "Título"
+
+msgid "MODIFIED"
+msgstr "Modificado"
+
+msgid "NAME"
+msgstr "Nombre"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "PARENT"
+msgstr "Padre"
+
+msgid "RANDOM"
+msgstr "Aleatorio"
+
+msgid "CUSTOM_QUERY"
+msgstr "Consulta personalizada"
+
+msgid "CUSTOM_QUERY_DESC"
+msgstr ""
+"Crea tu propia consulta personalizada añadiendo cualquier argumento "
+"compatible de WP_Query."
+
+msgid "CONTENT_TYPE"
+msgstr "Tipo de contenido"
+
+msgid "CONTENT_TYPE_DESC"
+msgstr "Elige entre el contenido o el resumen."
+
+msgid "CONTENT"
+msgstr "Contenido"
+
+msgid "EXCERPT"
+msgstr "Resumen"
+
+msgid "PAGE_HEADING"
+msgstr "Encabezado de página"
+
+msgid "PAGE_HEADING_DESC"
+msgstr "Configura el título principal de la página"
+
+msgid "ENABLED"
+msgstr "Activo"
+
+msgid "CUSTOM_HEADING"
+msgstr "Cabecera personalizada"
+
+msgid "CUSTOM_HEADING_DESC"
+msgstr "Escribe tu propio texto de cabecera."
+
+msgid "SHOW_POST_TITLES"
+msgstr "Mostrar título de los contenidos"
+
+msgid "SHOW_POST_TITLES_DESC"
+msgstr "Mostar el título de las entradas individuales."
+
+msgid "LINK"
+msgstr "Enlace"
+
+msgid "LINK_DESC"
+msgstr "Añade enlace al título"
+
+msgid "AUTHOR_META"
+msgstr "Metadatos: autor"
+
+msgid "AUTHOR_META_DESC"
+msgstr "Muestra el autor del contenido"
+
+msgid "PREFIX"
+msgstr "Prefijo"
+
+msgid "PREFIX_DESC"
+msgstr "Añade tu propio prefijo"
+
+msgid "DATE_META"
+msgstr "Metadatos: fecha"
+
+msgid "DATE_META_DESC"
+msgstr "Muestra la fecha de creación del post."
+
+msgid "FORMAT"
+msgstr "Formato"
+
+msgid "FORMAT_DESC"
+msgstr "Configura el formato de fecha usando el formato de fecha de PHP."
+
+msgid "MODIFIED_DATE_META"
+msgstr "Metadatos: fecha de modificación"
+
+msgid "MODIFIED_DATE_META_DESC"
+msgstr "Muestra la fecha de modificación del contenido."
+
+msgid "COMMENTS_META_DATA"
+msgstr "Metadatos: comentarios"
+
+msgid "COMMENTS_META_DATA_DESC"
+msgstr "Muestra el número de comentarios del contenido."
+
+msgid "SHOW_POST_CATEGORY"
+msgstr "Categoría del post"
+
+msgid "SHOW_POST_CATEGORY_DESC"
+msgstr "Muestra la primera categoría a la que está asignado el post."
+
+msgid "SHOW_POST_PARENT_CATEGORY"
+msgstr "Categoría padre del post."
+
+msgid "SHOW_POST_PARENT_CATEGORY_DESC"
+msgstr ""
+"Muestra la categoría padre de la categoría a la que el post está asignado."
+
+msgid "READ_MORE"
+msgstr "Leer más"
+
+msgid "READ_MORE_DESC"
+msgstr "Configura el comportamiento del botón leer más"
+
+msgid "LABEL"
+msgstr "Etiqueta"
+
+msgid "DISPLAY"
+msgstr "Mostrar"
+
+msgid "DISPLAY_DESC"
+msgstr "Configura cuando debe aparecer el botón Leer más"
+
+msgid "AUTO"
+msgstr "Auto"
+
+msgid "ALWAYS"
+msgstr "Siempre"
+
+msgid "NEVER"
+msgstr "Nunca"
+
+msgid "PAGE_VIEW"
+msgstr "Vista de página"
+
+msgid "SHOW_TITLE"
+msgstr "Muestra título"
+
+msgid "SHOW_TITLE_DESC"
+msgstr "Muestra el título de la página"
+
+msgid "SHOW_FEATURED_IMAGE"
+msgstr "Muestra la imágen destacada"
+
+msgid "SHOW_FEATURED_IMAGE_DESC"
+msgstr ""
+"Indica si la imagen destacada debe mostrarse en la vista completa de página."
+
+msgid "SHOW_COMMENTS"
+msgstr "Muestra comentarios"
+
+msgid "SHOW_COMMENTS_DESC"
+msgstr ""
+"Muestra los comentarios y el formulario de comentarios en la vista completa."
+
+msgid "HTML_TAGS"
+msgstr "Nota sobre etiquetas HTML"
+
+msgid "HTML_TAGS_DESC"
+msgstr ""
+"Muestra el pie con las etiquetas HTML permitidas en el formulario de "
+"comentarios."
+
+msgid "SHOW_TAGS"
+msgstr "Muestra etiquetas"
+
+msgid "SHOW_TAGS_DESC"
+msgstr "Muestra las etiquetas del post debajo de los contenidos."
+
+msgid "SHOW_FOOTER_NOTE"
+msgstr "Muestra nota al pie"
+
+msgid "SHOW_FOOTER_NOTE_DESC"
+msgstr "Muestra la nota al pie debajo del contenido."
+
+msgid "POST_VIEW"
+msgstr "Vista de entrada"
+
+msgid "CATEGORY_VIEW"
+msgstr "Vista de categoría"
+
+msgid "POST_COUNT"
+msgstr "Número de entradas"
+
+msgid "POST_COUNT_DESC"
+msgstr "Número de entradas a mostrar por página"
+
+msgid "ARCHIVE_VIEW"
+msgstr "Vista de archivo"
+
+msgid "TAG_VIEW"
+msgstr "Vista de etiqueta"
+
+msgid "SEARCH_VIEW"
+msgstr "Vista de búsqueda"
+
+# STYLE TAB #
+msgid "HEADER_STYLE"
+msgstr "Estilo de cabecera"
+
+msgid "HEADER_STYLE_DESC"
+msgstr "Elige la opción de estilo para el área de cabecera de la plantilla."
+
+# PAGE TEMPLATES TAB #
+msgid "CONTACT_FORM"
+msgstr "Formulario de contacto"
+
+msgid "CONTACT_EMAIL"
+msgstr "Email de contacto"
+
+msgid "CONTACT_EMAIL_DESC"
+msgstr ""
+"Dirección de email desde la que se enviarán los mensajes. Si está vacía se "
+"usará la del administrador."
+
+msgid "RECAPTCHA"
+msgstr "reCaptcha"
+
+msgid "RECAPTCHA_DESC"
+msgstr "Activa el control anti spam basado en reCaptcha."
+
+msgid "PUBLIC_KEY"
+msgstr "Llave pública"
+
+msgid "PRIVATE_KEY"
+msgstr "Llave privada"
+
+# ------------------- FRONT END ------------------- #
+#: 404.php:52
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: 404.php:54
+msgid "You may not be able to visit this page because of:"
+msgstr "Puede que no puedas ver esta página por una de las razones siguientes:"
+
+#: 404.php:56
+msgid "an out-of-date bookmark/favourite"
+msgstr "un favorito desactualizado"
+
+#: 404.php:57
+msgid "a search engine that has an out-of-date listing for this site"
+msgstr "una información desfasada de esta página en el buscador"
+
+#: 404.php:58
+msgid "a mistyped address"
+msgstr "un error en la escritura de la dirección"
+
+#: 404.php:59
+msgid "you have no access to this page"
+msgstr "no tienes acceso a la página"
+
+#: 404.php:60
+msgid "The requested resource was not found."
+msgstr "el recurso solicitado no se encuentra"
+
+#: 404.php:61
+msgid "An error has occurred while processing your request."
+msgstr "se produjo un error al procesar tu petición"
+
+#: 404.php:63
+msgid "Home"
+msgstr "Inicio"
+
+#: functions.php:34
+msgid ""
+"The active theme requires the Gantry Framework Plugin to be installed and "
+"active"
+msgstr "El tema activo necesita el plugin Gantry Framework instalado y activo."
+
+#: functions.php:90
+msgid "Next"
+msgstr "Siguiente"
+
+#: functions.php:91
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:111
+msgid "Page %1$s of %2$s"
+msgstr "Página %1$s de %2$s"
+
+#: html/404.php:12
+msgid "404 Page Not Found"
+msgstr "404 página no encontrada"
+
+#: html/archive.php:47
+msgid "Daily Archives: %s"
+msgstr "Archivo del día %s"
+
+#: html/archive.php:49
+msgid "Monthly Archives: %s"
+msgstr "Archivo del mes %s"
+
+#: html/archive.php:49
+msgid "F Y"
+msgstr "F Y"
+
+#: html/archive.php:51
+msgid "Yearly Archives: %s"
+msgstr "Archivo del año %s"
+
+#: html/archive.php:51
+msgid "Y"
+msgstr "Y"
+
+#: html/archive.php:53
+msgid "Archives"
+msgstr "Archivos"
+
+#: html/archive.php:83 html/author.php:120 html/category.php:73
+#: html/tag.php:73
+msgid "Sorry, but there aren't any posts matching your query."
+msgstr "Ninguna entrada coincide con tu petición."
+
+#: html/author.php:55
+msgid "Author Archives: %s"
+msgstr "Archivo del autor %s"
+
+#: html/author.php:79
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: html/category.php:45
+msgid "Category Archives: %s"
+msgstr "Archivo de la categoría %s"
+
+#: html/content/content-blog.php:128 html/content/content-blog.php:134
+#: html/content/content-contactpage.php:77
+#: html/content/content-contactpage.php:83 html/content/content-page.php:76
+#: html/content/content-page.php:82 html/content/content-single.php:128
+#: html/content/content-single.php:134 html/content/content.php:130
+#: html/content/content.php:136
+msgid "0 Comments"
+msgstr "Ningún comentario"
+
+#: html/content/content-blog.php:128 html/content/content-blog.php:134
+#: html/content/content-contactpage.php:77
+#: html/content/content-contactpage.php:83 html/content/content-page.php:76
+#: html/content/content-page.php:82 html/content/content-single.php:128
+#: html/content/content-single.php:134 html/content/content.php:130
+#: html/content/content.php:136
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: html/content/content-blog.php:128 html/content/content-blog.php:134
+#: html/content/content-contactpage.php:77
+#: html/content/content-contactpage.php:83 html/content/content-page.php:76
+#: html/content/content-page.php:82 html/content/content-single.php:128
+#: html/content/content-single.php:134 html/content/content.php:130
+#: html/content/content.php:136
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: html/content/content-contactpage.php:113 html/content/content-page.php:114
+#: html/content/content-single.php:166 html/layouts/comment_standard.php:79
+msgid "Edit"
+msgstr "Editar"
+
+#: html/content/content-contactpage.php:122
+msgid "Your email was sent successfully. Thank you!"
+msgstr "Email enviado. Gracias."
+
+#: html/content/content-contactpage.php:126
+msgid "Back to the homepage"
+msgstr "Regresar a la página de inicio"
+
+#: html/content/content-contactpage.php:134
+msgid "Sorry, an error occured. Please try again."
+msgstr "Se a producido un error. Intentar de nuevo."
+
+#: html/content/content-contactpage.php:142
+#: html/layouts/commentstempl_standard.php:152
+msgid "Name"
+msgstr "Nombre"
+
+#: html/content/content-contactpage.php:154
+#: html/layouts/commentstempl_standard.php:162
+msgid "Email"
+msgstr "Email"
+
+#: html/content/content-contactpage.php:166
+msgid "Message"
+msgstr "Mensaje"
+
+#: html/content/content-contactpage.php:197
+msgid "Send me a copy of this email."
+msgstr "Enviarme una copia del email"
+
+#: html/content/content-contactpage.php:199
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: html/content/content-page.php:112 html/content/content-single.php:164
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: html/content/content-single.php:195
+msgid "This entry was posted"
+msgstr "Entrada publicada"
+
+#: html/content/content-single.php:200
+msgid "on"
+msgstr "el"
+
+#: html/content/content-single.php:200
+msgid "at"
+msgstr "en"
+
+#: html/content/content-single.php:201
+msgid "and is filed under"
+msgstr "y clasificada como"
+
+#: html/content/content-single.php:202
+msgid "You can follow any responses to this entry through the"
+msgstr "Puedes seguir las respuestas a través de este"
+
+#: html/content/content-single.php:202
+msgid "feed"
+msgstr "feed"
+
+#: html/content/content-single.php:206
+msgid "You can"
+msgstr "Puedes"
+
+#: html/content/content-single.php:206
+msgid "leave a response"
+msgstr "dejar un comentario"
+
+#: html/content/content-single.php:206
+msgid "or"
+msgstr "o"
+
+#: html/content/content-single.php:206 html/content/content-single.php:210
+msgid "trackback"
+msgstr "trackback"
+
+#: html/content/content-single.php:206 html/content/content-single.php:210
+msgid "from your own site."
+msgstr "desde tu web o blog."
+
+#: html/content/content-single.php:210
+msgid "Responses are currently closed, but you can"
+msgstr "No se admiten más respuestas, pero puedes"
+
+#: html/content/content-single.php:214
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+"Puedes desplazarte hasta el final y dejar una respuesta. Pining no permitido."
+
+#: html/content/content-single.php:218
+msgid "Both comments and pings are currently closed."
+msgstr "Tanto los comentarios como los pinga están desactivados."
+
+#: html/content/content-single.php:220
+msgid "Edit this entry"
+msgstr "Editar esta entrada"
+
+#: html/gantrymenu/themes/catalog.php:10
+msgid "Gantry Dropdown"
+msgstr "Gantry desplegable"
+
+#: html/gantrymenu/themes/catalog.php:13
+msgid "Gantry SplitMenu"
+msgstr "Gantry SplitMenu"
+
+#: html/gantrymenu/themes/itemfields.php:32
+msgid "Subtext"
+msgstr "Subtexto"
+
+#: html/gantrymenu/themes/itemfields.php:39
+msgid "Custom Image"
+msgstr "Imagen personalizada"
+
+#: html/gantrymenu/themes/itemfields.php:41
+#: html/gantrymenu/themes/itemfields.php:66
+msgid "- None Selected -"
+msgstr "- Ninguna -"
+
+#: html/gantrymenu/themes/itemfields.php:64
+msgid "Custom Icon"
+msgstr "Icono personalizado"
+
+#: html/gantrymenu/themes/itemfields.php:78
+msgid "Number of Columns in Submenu"
+msgstr "Columnas en el submenú"
+
+#: html/gantrymenu/themes/itemfields.php:90
+msgid "Item Distribution"
+msgstr "Distribución de los elementos"
+
+#: html/gantrymenu/themes/itemfields.php:92
+msgid "Evenly"
+msgstr "Equitativamente"
+
+#: html/gantrymenu/themes/itemfields.php:94
+msgid "In Order"
+msgstr "Por orden"
+
+#: html/gantrymenu/themes/itemfields.php:96
+msgid "Manually"
+msgstr "Manualmente"
+
+#: html/gantrymenu/themes/itemfields.php:102
+msgid "Manual Item Distribution"
+msgstr "Distribución manual de los elementos"
+
+#: html/gantrymenu/themes/itemfields.php:109
+msgid "Group Child Items"
+msgstr "Agrupar hijos"
+
+#: html/gantrymenu/themes/itemfields.php:111
+msgid "No"
+msgstr "No"
+
+#: html/gantrymenu/themes/itemfields.php:112
+msgid "Yes"
+msgstr "Sí"
+
+#: html/gantrymenu/themes/itemfields.php:119
+msgid "Drop-Down Width (px)"
+msgstr "Ancho (px) del desplegable"
+
+#: html/gantrymenu/themes/itemfields.php:126
+msgid "Column Widths (px)"
+msgstr "Ancho de columna (px)"
+
+#: html/layouts/body_contactform.php:64
+msgid "Please enter your name."
+msgstr "Escribe tu nombre."
+
+#: html/layouts/body_contactform.php:72
+msgid "Please enter your email address."
+msgstr "Escribe tu email."
+
+#: html/layouts/body_contactform.php:76
+msgid "You entered an invalid email address."
+msgstr "El email no es correcto."
+
+#: html/layouts/body_contactform.php:84
+msgid "Please enter a message."
+msgstr "Escribe tu mensaje."
+
+#: html/layouts/body_contactform.php:104
+msgid "The entered reCaptcha is incorrect. Please try again."
+msgstr "El valor de reCaptcha introducido no es válido. Inténtalo de nuevo."
+
+#: html/layouts/body_contactform.php:113
+msgid "[Contact Form] From:"
+msgstr "[Fomulario de contacto] de:"
+
+#: html/layouts/body_contactform.php:114
+msgid "Name:"
+msgstr "Nombre:"
+
+#: html/layouts/body_contactform.php:114
+msgid "Email:"
+msgstr "Email:"
+
+#: html/layouts/body_contactform.php:115
+msgid "From:"
+msgstr "De:"
+
+#: html/layouts/body_contactform.php:115
+msgid "Reply-To:"
+msgstr "Responder a:"
+
+#: html/layouts/body_contactform.php:173 html/page.php:39
+msgid "Sorry, no pages matched your criteria."
+msgstr "Ninguna página corresponde con tu criterio."
+
+#: html/layouts/comment_standard.php:59
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de revisión."
+
+#: html/layouts/comment_standard.php:72
+msgid "%1$s at %2$s"
+msgstr "%1$s a $2$s"
+
+#: html/layouts/comment_standard.php:83
+#: html/layouts/commentstempl_standard.php:64
+msgid "Reply"
+msgstr "Responder"
+
+#: html/layouts/commentstempl_standard.php:39
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Contenido protegido mediante contraseña. Debes introducirla para ver tus "
+"comentarios."
+
+#: html/layouts/commentstempl_standard.php:73
+msgid "Older Comments"
+msgstr "Comentarios antiguos"
+
+#: html/layouts/commentstempl_standard.php:76
+msgid "Newer Comments"
+msgstr "Comentarios más receintes"
+
+#: html/layouts/commentstempl_standard.php:95
+msgid "Comments are closed."
+msgstr "No se permiten comentarios."
+
+#: html/layouts/commentstempl_standard.php:111
+msgid "Leave a Reply"
+msgstr "Contestar"
+
+#: html/layouts/commentstempl_standard.php:111
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: html/layouts/commentstempl_standard.php:117
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta"
+
+#: html/layouts/commentstempl_standard.php:138
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"btn btn-mini"
+"\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+"Conectado com <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"btn btn-"
+"mini\" title=\"Desconnectar\">Desconnectar</a>"
+
+#: html/layouts/commentstempl_standard.php:145
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"Tu dirección de email no se publicará. Los campos marcados * son "
+"obligatorios."
+
+#: html/layouts/commentstempl_standard.php:172
+msgid "Website"
+msgstr "Web"
+
+#: html/layouts/commentstempl_standard.php:183
+msgid "Comment"
+msgstr "Comentar"
+
+#: html/layouts/commentstempl_standard.php:195
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\" class="
+"\"initialism\">HTML</abbr> tags and attributes: <code>%1$s</code>"
+msgstr ""
+"Puedes utilizar las siguientes etiquetas y atributos <abbr title=\"HyperText "
+"Markup Language\" class=\"initialism\">HTML</abbr>: <code>%1$s</code>"
+
+#: html/layouts/commentstempl_standard.php:203
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: html/search.php:45
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de %s"
+
+#: html/search.php:73
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "Ningún elemento coincide con tu búsqueda. Prueba con otras palabras."
+
+#: html/single.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr "Ninguna entrada coincide con "
+
+#: html/tag.php:45
+msgid "Tag Archives: %s"
+msgstr "Archivo de la etiqueta %s"
+
+#: searchform.php:13 searchform.php:14
+msgid "Search"
+msgstr "Buscar"
+
+#: widgets/recentcomments.php:96
+msgid "By %1$s"
+msgstr "Por %1$s"

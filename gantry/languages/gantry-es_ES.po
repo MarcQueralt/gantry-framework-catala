@@ -1,0 +1,740 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gantry Framework Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marc Queralt <marc@demomentsomtres.com>\n"
+"Language-Team: DeMomentSomTres <dms3@demomentsomtres.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: es_ES\n"
+
+msgid "MISSING_MENU_THEME_MESSAGE"
+msgstr ""
+"Para que el tema funcione correctamente es necesario ir a <strong>Escritorio "
+"&rarr; Apariencia &rarr; Widgets</strong> y solver a grabar toads las "
+"instancias del widget <strong>Gantry Menu</strong>."
+
+msgid "JNONE"
+msgstr "Ninguno"
+
+msgid "SETTINGS"
+msgstr "Configuración"
+
+msgid "THEME_SETTINGS"
+msgstr "Configuración del tema"
+
+msgid "SUCCESS_MSG"
+msgstr "El nuevo preset ha sido guardado y ya puede ser usado.</p>"
+
+msgid "SHOW"
+msgstr "Mostrar"
+
+msgid "ENABLED"
+msgstr "Activo"
+
+msgid "ENABLE"
+msgstr "Activar"
+
+msgid "POSITION"
+msgstr "Posición"
+
+msgid "AUTO_SIZE"
+msgstr "Tamaño automático"
+
+msgid "LOW"
+msgstr "bajo"
+
+msgid "MED"
+msgstr "medio"
+
+msgid "HIGH"
+msgstr "alto"
+
+msgid "DELAY"
+msgstr "Espera"
+
+msgid "TYPE"
+msgstr "Tipo"
+
+msgid "X_OFFSET"
+msgstr "X-Offset"
+
+msgid "Y_OFFSET"
+msgstr "Y-Offset"
+
+msgid "MIN_WIDTH"
+msgstr "Ancho mínimo"
+
+msgid "PREVIEW"
+msgstr "Visualización previa"
+
+msgid "OPACITY"
+msgstr "Opacidad"
+
+msgid "START"
+msgstr "Inicio"
+
+msgid "END"
+msgstr "Fin"
+
+msgid "TOOLBAR"
+msgstr "Barra de herramientas"
+
+msgid "OVERVIEW"
+msgstr "Visión general"
+
+msgid "CONTENT"
+msgstr "Contenido"
+
+msgid "EXCERPT"
+msgstr "Resumen"
+
+msgid "BOTH"
+msgstr "Ambos"
+
+msgid "STYLE"
+msgstr "Estilo"
+
+msgid "LINK_COLOR"
+msgstr "Color de los enlaces"
+
+msgid "LINK_COLOR_DESC"
+msgstr "Elige un color para los enlaces"
+
+msgid "LOGO"
+msgstr "Logo"
+
+msgid "LOGO_DESC"
+msgstr "Activa, desactiva y permite seleccionar el logo"
+
+msgid "CUSTOM"
+msgstr "Personalizado"
+
+msgid "LIGHT"
+msgstr "Claro"
+
+msgid "DARK"
+msgstr "Oscuro"
+
+msgid "HEADER_STYLE"
+msgstr "Estilo de cabecera"
+
+msgid "LOGO_PICKER"
+msgstr "Logo personalizado"
+
+msgid "LOGO_PICKER_DESC"
+msgstr "Usa el selector de logos para elefir la imagen personalizada."
+
+msgid "LOGO_STYLE"
+msgstr "Estilo de logo"
+
+msgid "LOGO_STYLE_DESC"
+msgstr "Elige un estilo de logo entre los estilos propuestos."
+
+msgid "FEATURED_IMAGE_SIZE"
+msgstr "Tamaño de la imagen destacada"
+
+msgid "FEATURED_IMAGE_SIZE_DESC"
+msgstr "Establece el tamaño y posición de la imagen destacada."
+
+msgid "WIDTH"
+msgstr "Ancho"
+
+msgid "HEIGHT"
+msgstr "Alto"
+
+msgid "LEFT"
+msgstr "Izquierda"
+
+msgid "RIGHT"
+msgstr "Derecha"
+
+msgid "WEBFONTS"
+msgstr "Fuentes web"
+
+msgid "WEBFONTS_DESC"
+msgstr "Activa o desactiva el uso de fuentes de terceros"
+
+msgid "WEBFONTS_SOURCE"
+msgstr "Fuente"
+
+msgid "FONT_SETTINGS"
+msgstr "Configuración de la fuente"
+
+msgid "FONT_SETTINGS_DESC"
+msgstr "Escoge los parámetros de configuración de la fuente"
+
+msgid "FONT_FAMILY"
+msgstr "Familia"
+
+msgid "FONT_SIZE"
+msgstr "Tamaño"
+
+msgid "F_XSMALL"
+msgstr "Extra pequeña"
+
+msgid "F_SMALL"
+msgstr "Pequeña"
+
+msgid "F_DEFAULT"
+msgstr "Normal"
+
+msgid "F_LARGE"
+msgstr "Grande"
+
+msgid "F_XLARGE"
+msgstr "Extra grandae"
+
+msgid "PAGINATION"
+msgstr "Paginado"
+
+msgid "PAGINATION_DESC"
+msgstr "Muestra los contenidos paginados."
+
+msgid "PAGINATION_SHOW_RESULTS"
+msgstr "Mostrar resultados"
+
+msgid "PAGINATION_SHOW_COUNT"
+msgstr "Mostrar número"
+
+msgid "PAGINATION_SHOW_RESULTS_DESC"
+msgstr "Muestra el número de la página actual y de las existentes."
+
+msgid "PAGINATION_SIDE_PAGES"
+msgstr "Páginas a cada lado"
+
+msgid "PAGINATION_SIDE_PAGES_DESC"
+msgstr ""
+"Número de páginas que se mostraran al lado del número de página actual."
+
+msgid "WORDPRESS_COMMENTS"
+msgstr "Usar comentarios de WordPress"
+
+msgid "WORDPRESS_COMMENTS_DESC"
+msgstr "Desactiva esta opción si usas un system de commentaries como Disqus."
+
+msgid "CUSTOM_CSS"
+msgstr "CSS Personalizado"
+
+msgid "CUSTOM_CSS_DESC"
+msgstr "Tu propio código CSS que se añadirá dentro de la sección <head>."
+
+msgid "TEXT"
+msgstr "Texto"
+
+msgid "GIZMOS"
+msgstr "Trucos"
+
+msgid "FEATURES"
+msgstr "Características"
+
+msgid "DATE"
+msgstr "Fecha"
+
+msgid "DATE_DESC"
+msgstr ""
+"Activa o desactiva la funcionalidad de fecha y asigna su posición pro "
+"defecto."
+
+msgid "DATE_CLIENTSIDE"
+msgstr "Fecha del cliente"
+
+msgid "FONT_SIZER"
+msgstr "Dimensionador de fuente"
+
+msgid "FONT_SIZER_DESC"
+msgstr ""
+"Activa o desactiva la funcionalidad de dimensionado de fuentes y establece "
+"su posición por defecto."
+
+msgid "BRANDING"
+msgstr "Branding"
+
+msgid "BRANDING_DESC"
+msgstr ""
+"Activa o desactiva el branding basado en logo y establece su posición por "
+"defecto."
+
+msgid "COPYRIGHT"
+msgstr "Copyright"
+
+msgid "COPYRIGHT_DESC"
+msgstr ""
+"Activa o desactiva la funcionalidad de copyright y establece su posición por "
+"defecto."
+
+msgid "SMARTLOAD"
+msgstr "SmartLoad"
+
+msgid "SMARTLOAD_DESC"
+msgstr "Activa o desactiva la funcionalidad de SmartLoad."
+
+msgid "COMPONENT_IGNORES"
+msgstr "Ignorar componente"
+
+msgid "XPATH_IGNORES"
+msgstr "Ignorar X-Path"
+
+msgid "TOTOP"
+msgstr "Desplazamiento al inicio"
+
+msgid "TOTOP_DESC"
+msgstr ""
+"Activa o desactiva la funcionalidad de desplazamiento al inicio y establece "
+"su posición por defecto."
+
+msgid "RESETSETTINGS"
+msgstr "Reiniciar configuración"
+
+msgid "RESETSETTINGS_DESC"
+msgstr ""
+"Activa o desactiva el enlace de reiniciar la configuración y establece su "
+"posición por defecto."
+
+msgid "ANALYTICS"
+msgstr "Google Analytics"
+
+msgid "ANALYTICS_DESC"
+msgstr "Activa o desactiva la lógica de Google analytics."
+
+msgid "ANALYTICS_ENABLE"
+msgstr "Activa"
+
+msgid "ANALYTICS_CODE"
+msgstr "UA Code"
+
+msgid "MENU"
+msgstr "Menú"
+
+msgid "MENU_CTRL"
+msgstr "Control menú"
+
+msgid "MENU_CTRL_DESC"
+msgstr "Activa o desactiva el menú y selection el tipi de menú."
+
+msgid "FUSION"
+msgstr "Menú Fusion"
+
+msgid "DROPDOWN"
+msgstr "Menú desplegable"
+
+msgid "SPLITMENU"
+msgstr "Menú Split"
+
+msgid "MENU_SELECT"
+msgstr "Elige un menú"
+
+msgid "MENU_SELECT_DESC"
+msgstr "Escoge Select a menu group to display in the main menu."
+
+msgid "POSITION_DESC"
+msgstr "Escoge la posición para mortar el menú principal."
+
+msgid "ENABLE_JS"
+msgstr "Activa JavaScript"
+
+msgid "ENABLE_JS_DESC"
+msgstr "Activa o desactiva los effects de JavaScript en el menú."
+
+msgid "MENU_OPACITY"
+msgstr "Opacidad del menú"
+
+msgid "MENU_EFFECT"
+msgstr "Efectos del menú"
+
+msgid "MENU_EFFECT_DESC"
+msgstr "Escoge un efecto para el menú desplegable."
+
+msgid "SLIDE"
+msgstr "Deslizar"
+
+msgid "SLIDEFADE"
+msgstr "Deslizar y desaparecer"
+
+msgid "MENU_DELAY"
+msgstr "Retraso del menú"
+
+msgid "MENU_DELAY_DESC"
+msgstr "Establece el tiempo de espera para los menús desplegables."
+
+msgid "MENU_ANIMATION"
+msgstr "Animación del menú"
+
+msgid "MENU_ANIMATION_DESC"
+msgstr "Escoge entre una de las animaciones para el menú desplegable."
+
+msgid "MENU_DURATION"
+msgstr "Duración del menú"
+
+msgid "MENU_DURATION_DESC"
+msgstr "Establece la duración de aperture de los menús desplegables."
+
+msgid "CENTERED_DROPDOWN"
+msgstr "Desplegables centrados"
+
+msgid "ENABLE_ID"
+msgstr "Activa ID"
+
+msgid "ENABLE_ID_DESC"
+msgstr ""
+"Activa o desactiva la identificación estándar de WordPress para el menú "
+"activo."
+
+msgid "MAINMENU_POS"
+msgstr "Posición del menú principal"
+
+msgid "MAINMENU_POS_DESC"
+msgstr "Elige la posición del menú principal"
+
+msgid "SUBMENU_POS"
+msgstr "Posición del submenú"
+
+msgid "SUBMENU_POS_DESC"
+msgstr "Elige la posición para el submenú del split menú."
+
+msgid "SUBMENU_TITLE"
+msgstr "Título del submenú"
+
+msgid "SUBMENU_TITLE_DESC"
+msgstr "Activa o desactiva el título del submenú."
+
+msgid "SUBMENU_CLASS_SFX"
+msgstr "Clase del submenú"
+
+msgid "SUBMENU_CLASS_SFX_DESC"
+msgstr "Establece las classes para todo el menú split."
+
+msgid "SUBMENUMODULE_CLASS_SFX"
+msgstr "Classe para el módulo de submenú"
+
+msgid "SUBMENUMODULE_CLASS_SFX_DESC"
+msgstr "Establece las clases para el widget de submenu."
+
+msgid "RESPONSIVE_MENU"
+msgstr "Menú adaptable"
+
+msgid "RESPONSIVE_MENU_DESC"
+msgstr "Selecciona el format de presentación del menú en móviles y tabletas."
+
+msgid "PANEL"
+msgstr "Panel"
+
+msgid "SELECTBOX"
+msgstr "Desplegable"
+
+msgid "LAYOUTS"
+msgstr "Distribuciones"
+
+msgid "FULLWIDTH_POS"
+msgstr "Posiciones Fullwidth"
+
+msgid "TOP_POS"
+msgstr "Posiciones Top"
+
+msgid "NAV_POS"
+msgstr "Posiciones Navigation"
+
+msgid "HEADER_POS"
+msgstr "Posiciones Header"
+
+msgid "SHOWCASE_POS"
+msgstr "Posiciones Showcase"
+
+msgid "UTILITY_POS"
+msgstr "Posiciones Utility"
+
+msgid "FEATURE_POS"
+msgstr "Posiciones Featured"
+
+msgid "MAINTOP_POS"
+msgstr "Posiciones MainTop"
+
+msgid "MAINBODY_POS"
+msgstr "Posiciones MainBody"
+
+msgid "MAINBOTTOM_POS"
+msgstr "Posiciones MainBottom"
+
+msgid "EXTENSION_POS"
+msgstr "Posiciones Extension"
+
+msgid "BOTTOM_POS"
+msgstr "Posiciones Bottom"
+
+msgid "FOOTER_POS"
+msgstr "Posicions Footer"
+
+msgid "COPYRIGHT_POS"
+msgstr "Posiciones Copyright"
+
+msgid "FORCE_POS"
+msgstr "Forzar posiciones"
+
+msgid "POS_COUNT"
+msgstr "Número de posiciones"
+
+msgid "LAYOUT_POS_DESC"
+msgstr ""
+"Usa el deslizador para escaper la distribución de las columnas usadas por "
+"los widgets activos en la posición indicada."
+
+msgid "ADVANCED"
+msgstr "Avanzado"
+
+msgid "LAYOUT_MODE"
+msgstr "Modo de distribución"
+
+msgid "LAYOUT_MODE_DESC"
+msgstr ""
+"Escoge entre modo fijo o modo adaptable. Los moods fijos no sportan móvil."
+
+msgid "RESPONSIVE"
+msgstr "Adaptable"
+
+msgid "1200FIXED"
+msgstr "Fjio 1200px"
+
+msgid "960FIXED"
+msgstr "Fijo 960px"
+
+msgid "MAINTENANCE_MODE"
+msgstr "Modo de mantenimiento"
+
+msgid "MAINTENANCE_MODE_DESC"
+msgstr ""
+"Permite loner todo el sitio en modo de mantenimiento y bloquear el acceso a "
+"los usurious no autorizados."
+
+msgid "MAINTENANCE_MODE_MESSAGE"
+msgstr "Mensaje"
+
+msgid "LOAD_TRANSITION"
+msgstr "Cargar transición"
+
+msgid "LOAD_TRANSITION_DESC"
+msgstr ""
+"Activa o desactiva los efectos de animación para la cargo de la página."
+
+msgid "GANTRY_CACHE"
+msgstr "Caché Gantry"
+
+msgid "GANTRY_CACHE_DESC"
+msgstr "Activa o desacntiva la funcionalidad de Caché propia de Gantry"
+
+msgid "CACHE_TIME"
+msgstr "Timeout de la caché"
+
+msgid "COMPONENT_ENABLED"
+msgstr "Mostrar contenido"
+
+msgid "COMPONENT_ENABLED_DESC"
+msgstr "Activa o desactiva la presentación del contenido"
+
+msgid "MAINBODY_ENABLED"
+msgstr "Mostrar MainBody"
+
+msgid "MAINBODY_ENABLED_DESC"
+msgstr ""
+"Activa o desactiva la presentación de contenido y barras laterals y los "
+"widgets de MainBody de la frontpage."
+
+msgid "RTL"
+msgstr "Soporte RTL"
+
+msgid "RTL_DESC"
+msgstr "Activa o desactiva el sport para RTL."
+
+msgid "DISABLE_AUTO_PARAGRAPHS"
+msgstr "Desactiva párrafos automáticos"
+
+msgid "DISABLE_AUTO_PARAGRAPHS_DESC"
+msgstr "Evita que WordPress inserte automáticamente etiquetas de párrafo."
+
+msgid "DISABLE_AUTO_PARAGRAPHS_TYPE"
+msgstr "Tipo de contenido"
+
+msgid "DISABLE_AUTO_PARAGRAPHS_TYPE_DESC"
+msgstr ""
+"Escoge que tipo de contenido se considera al deshabilitar párrafos "
+"automáticos."
+
+msgid "DISABLE_TEXTURIZE"
+msgstr "Desactiva Texturize"
+
+msgid "DISABLE_TEXTURIZE_DESC"
+msgstr ""
+"Evita que WordPress modifique algunos caracteres como las comillas (útil en "
+"páginas con código)."
+
+msgid "PAGE_TEMPLATES"
+msgstr "Plantillas de página"
+
+msgid "PAGESUFFIX"
+msgstr "Sufijo de página"
+
+msgid "PAGESUFFIX_DESC"
+msgstr "Permite añadir classes a la etiquette body de la página."
+
+msgid "CLASS"
+msgstr "Clase"
+
+msgid "FEED_LINKS"
+msgstr "Enlace a Feeds"
+
+msgid "FEED_LINKS_DESC"
+msgstr "Activa los feeds de WordPress"
+
+msgid "CUSTOM_TITLE_TAG"
+msgstr "Personalización de la etiqueta title"
+
+msgid "CUSTOM_TITLE_TAG_DESC"
+msgstr ""
+"Personaliza la etiquette <title> usando palabras clave que puedes encontrar "
+"en el sitio web de Gantry Framework."
+
+msgid "TITLE_FORMAT"
+msgstr "Formato de título"
+
+msgid "SHORTCODES_WIDGETS"
+msgstr "Shortcodes en Widgets"
+
+msgid "SHORTCODES_WIDGETS_DESC"
+msgstr ""
+"Permite que WordPress grate los short codes que se encuentran en el "
+"contenido de widgets."
+
+msgid "ROKSTYLE"
+msgstr "RokStyle"
+
+msgid "ROKSTYLE_DESC"
+msgstr ""
+"Permite añadir CSS o JavaScript directamente en el contenido de la página/"
+"entrada."
+
+msgid "TYPOGRAPHY"
+msgstr "Tipografía"
+
+msgid "TYPOGRAPHY_DESC"
+msgstr "Activa o desactiva fuentes tipográficas predefinidas."
+
+msgid "TYPOGRAPHY_STYLE"
+msgstr "Estilo de tipografía"
+
+msgid "SELECTIVIZR"
+msgstr "Selectivizr"
+
+msgid "SELECTIVIZR_DESC"
+msgstr ""
+"Activa o desactiva el sport a Selectivizr para IE8 que proporciona sport "
+"para selectors CSS adicionales y mejora la compatibilidad."
+
+msgid "LESS_COMPILER"
+msgstr "Compilador Less"
+
+msgid "LESS_COMPILER_DESC"
+msgstr "Seleccione las condiciones y opciones del compilador LESS interno."
+
+msgid "LESS_COMPRESSION"
+msgstr "Compresión CSS"
+
+msgid "LESS_COMPRESSION_DESC"
+msgstr ""
+"Activa o desactiva la compresión de espacios del fichero css resultante."
+
+msgid "LESS_COMPILEWAIT"
+msgstr "Espera de compilación"
+
+msgid "LESS_COMPILEWAIT_DESC"
+msgstr ""
+"El tiempo máximo que un thread php esperará a otro que compile un fichero "
+"css."
+
+msgid "LESS_CACHE_CLEARED"
+msgstr "Se ha vaciado la caché de LESS."
+
+msgid "LESS_COMPILE_CLEAR"
+msgstr "Caché"
+
+msgid "LESS_COMPILE_CLEAR_TEXT"
+msgstr "Limpiar caché"
+
+msgid "LESS_DEBUGHEADER"
+msgstr "Cabecera debug"
+
+msgid "LESS_DEBUGHEADER_DESC"
+msgstr ""
+"Muestra información sobre la compilación Less en la cabecera del fichero CSS "
+"resultante."
+
+msgid "ASSIGNMENTS"
+msgstr "Asignaciones"
+
+msgid "PRESET_TITLE"
+msgstr "Almacén de Presets"
+
+msgid "PRESET_SELECT"
+msgstr ""
+"Selecciona los presets que quieres guardar y dales un nombre. Pulsa omitir "
+"en una sección de Preset si no quieres guardar como un preset específico."
+
+msgid "PRESET_NAME"
+msgstr "Nombre del Preset"
+
+msgid "KEY_NAME"
+msgstr "Nombre clave"
+
+msgid "PRESET_SKIP"
+msgstr "Omitir"
+
+msgid "PRESET_NAMING"
+msgstr "Nombre de preset para"
+
+msgid "SUCCESS_SAVE"
+msgstr "Preset guardado."
+
+msgid "FAIL_SAVE"
+msgstr "Error al guardar."
+
+msgid "FAIL_MSG"
+msgstr ""
+"<p>Parece como si la grabación del nuevo preset hubiese fallado. Asegurate "
+"que la carpeta de la plantilla y los ficheros custom/presets.ini de este "
+"directorio tengan permisos de escritura.</p><p>Una vez creas que has "
+"resuelto el problema de permisos, pulsa Reintentar.</p>"
+
+msgid "RETRY"
+msgstr "Reintentar"
+
+msgid "SAVE"
+msgstr "Guardar"
+
+msgid "CANCEL"
+msgstr "Cancelar"
+
+msgid "BLOG_VIEW"
+msgstr "Vista de Blog"
+
+msgid "PAGE_VIEW"
+msgstr "Vista de página"
+
+msgid "POST_VIEW"
+msgstr "Vista de entrada"
+
+msgid "CATEGORY_VIEW"
+msgstr "Vista de categoría"
+
+msgid "ARCHIVE_VIEW"
+msgstr "Vista de archivo"
+
+msgid "TAG_VIEW"
+msgstr "Vista de etiqueta"
+
+msgid "SEARCH_VIEW"
+msgstr "Vista de búsqueda"
+
+msgid "SAVE_AS_COPY_SUFFIX"
+msgstr "Duplicar Override"
