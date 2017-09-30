@@ -41,7 +41,7 @@ msgid "ENABLE"
 msgstr "Activa"
 
 msgid "POSITION"
-msgstr "Posicuó"
+msgstr "Posició"
 
 msgid "AUTO_SIZE"
 msgstr "mida automàtica"
@@ -71,7 +71,7 @@ msgid "MIN_WIDTH"
 msgstr "Min-Width"
 
 msgid "PREVIEW"
-msgstr "Pre-visualització"
+msgstr "Previsualització"
 
 msgid "OPACITY"
 msgstr "Opacitat"
