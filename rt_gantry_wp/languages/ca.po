@@ -21,7 +21,7 @@ msgid "BLOG_CATEGORY"
 msgstr "Categoria del blog"
 
 msgid "BLOG_CATEGORY_DESC"
-msgstr "Incloure o excloure IDs de categoria de la consulta del Blog."
+msgstr "Inclou o exclou els ID de categoria de la consulta del Blog."
 
 msgid "POSTS_DISPLAY"
 msgstr "Presentació d'entrades"
